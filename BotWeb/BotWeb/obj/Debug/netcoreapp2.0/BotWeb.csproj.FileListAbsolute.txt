@@ -1,0 +1,11 @@
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\bin\Debug\netcoreapp2.0\BotWeb.deps.json
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\bin\Debug\netcoreapp2.0\BotWeb.runtimeconfig.json
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\bin\Debug\netcoreapp2.0\BotWeb.runtimeconfig.dev.json
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\bin\Debug\netcoreapp2.0\BotWeb.dll
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\bin\Debug\netcoreapp2.0\BotWeb.pdb
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\obj\Debug\netcoreapp2.0\BotWeb.csprojResolveAssemblyReference.cache
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\obj\Debug\netcoreapp2.0\BotWeb.csproj.CoreCompileInputs.cache
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\obj\Debug\netcoreapp2.0\BotWeb.AssemblyInfoInputs.cache
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\obj\Debug\netcoreapp2.0\BotWeb.AssemblyInfo.cs
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\obj\Debug\netcoreapp2.0\BotWeb.dll
+C:\Users\goncharov_e\source\repos\BotWeb\BotWeb\obj\Debug\netcoreapp2.0\BotWeb.pdb
